@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>1498519533_editor-folder-add-glyph.png</file>
+        <file>1498519588_editor-floopy-dish-save-glyph.png</file>
+        <file>1498519647_editor-trash-delete-recycle-bin-glyph.png</file>
+        <file>1498519708_editor-crop-outline-stroke.png</file>
+        <file>1498519847_arrow_6.png</file>
+        <file>1498519975_record-round-circle-dot.png</file>
+        <file>1498520016_color.png</file>
+        <file>1498520517_49.png</file>
+    </qresource>
+</RCC>
