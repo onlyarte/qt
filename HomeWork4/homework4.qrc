@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/dictionary">
+        <file>words.txt</file>
+        <file>words2.txt</file>
+    </qresource>
+</RCC>
